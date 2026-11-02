@@ -46,7 +46,7 @@ This project was developed as part of the **CodeAlpha App Development Internship
 
 ## 👩‍💻 Developer
 
-**Vaishnavi**
+**Vaishnavi Reddy**
 
 ---
 
